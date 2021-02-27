@@ -1,0 +1,7 @@
+name = "PV"
+uuid = "db94488d-dce8-4164-8e6d-a20a793e8fd4"
+authors = ["Shuhua Gao <nus.gao.shuhua@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"

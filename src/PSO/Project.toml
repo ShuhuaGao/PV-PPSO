@@ -1,0 +1,9 @@
+name = "PSO"
+uuid = "1259f609-9f4b-4b65-a561-767035d4ba09"
+authors = ["Shuhua Gao <nus.gao.shuhua@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+PV = "db94488d-dce8-4164-8e6d-a20a793e8fd4"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
