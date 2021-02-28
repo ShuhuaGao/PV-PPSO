@@ -17,6 +17,6 @@ This code is implemented with the [Julia programming language](https://julialang
 4. Type the following in the Julia REPL to start Jupyter notebook for Julia ([documentation](https://github.com/JuliaLang/IJulia.jl))
 	```julia
 	using IJulia
-	notebook()
+	notebook(dir=pwd())
 	```
 5. In the Jupyter notebook shown in your browser, go into the `notebook` subfolder to run notebooks.
