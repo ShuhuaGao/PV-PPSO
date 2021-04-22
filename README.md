@@ -1,5 +1,5 @@
 # PV-PPSO
-Code for the paper: Highly efficient photovoltaic parameter estimation using parallel particle swarm optimization on a GPU.
+Code for the paper: *Highly efficient photovoltaic parameter estimation using parallel particle swarm optimization on a GPU*. Accepted by the 30th International Symposium on Industrial Electronics (ISIE), held 20-23 June 2021 in Kyoto, Japan.
 
 ## View files
 You can view the notebook files in the [notebook](./notebook) directory online.
