@@ -20,3 +20,18 @@ This code is implemented with the [Julia programming language](https://julialang
 	notebook(dir=pwd())
 	```
 5. In the Jupyter notebook shown in your browser, go into the `notebook` subfolder to run notebooks.
+
+
+## How to cite
+```bib
+@INPROCEEDINGS{Gao-Highly,  
+author={Gao, Shuhua and Xiang, Cheng and Lee, Tong Heng},  
+booktitle={2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)},   
+title={Highly efficient photovoltaic parameter estimation using parallel particle swarm optimization on a GPU},   
+year={2021},  
+volume={},  
+number={},  
+pages={1-7},  
+doi={10.1109/ISIE45552.2021.9576495}
+}
+```
